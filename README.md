@@ -1,7 +1,5 @@
 # arduino-learning-resources
 
-# Computer Science courses with video lectures
-
 ## Introduction
 
 - Please check [NOTES](https://github.com/augnairobi/arduino-learning-resources/blob/1db1288ee8bf6fce267c6ad6130dcd5ac18df7e7/NOTES.md) for general information about this list.
@@ -14,11 +12,12 @@
 Table of Contents
 
 ------------------------------
-- [arduino](#arduino)
+- [Arduino](#arduino)
 - [Misc](#misc)
 
 # Udemy
 - [Getting Started with Arduino Web Editor](https://www.udemy.com/course/arduino-web-editor-getting-started-with-arduino-web-editor/)
+- [Getting started with Arduino IoT cloud](https://www.udemy.com/course/getting-started-with-arduino-iot-cloud/)
 
 
 
