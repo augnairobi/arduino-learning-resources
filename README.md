@@ -46,6 +46,7 @@ Table of Contents
 
 
 # Youtube Channels
+- [Arduino Course for Beginners - (4HRS)- FreecodeCamp channel ](https://youtu.be/zJ-LqeX_fLU)
 
 # Books(ebooks)
 
