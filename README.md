@@ -47,6 +47,7 @@ Table of Contents
 
 # Youtube Channels
 - [Arduino Course for Beginners - (4HRS)- FreecodeCamp channel ](https://youtu.be/zJ-LqeX_fLU)
+- [Arduino tutorial series - 68 videos- Paul McWhorter channel ](https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 
 # Books(ebooks)
 
