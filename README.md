@@ -5,7 +5,7 @@
 - Please check [NOTES](https://github.com/augnairobi/arduino-learning-resources/blob/1db1288ee8bf6fce267c6ad6130dcd5ac18df7e7/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md](https://github.com/augnairobi/arduino-learning-resources/blob/17795e48dc1af1e2f34afd8d792c296fec5ce2af/CONTRIBUTING.md) for contribution guidelines.
 - Please feel free to raise any genuine issue you may have, however it has been noticed that few people open empty issues to raise their github contribution on their account. Such spammers will be blocked. 
-- You are welcome to contribute, please create PR for actual college/University level courses. Please do not add links for small MOOCs, basic tutorials or advertisement for some sites/channels.
+- You are welcome to contribute.
 
 ------------------------------
 
@@ -14,8 +14,8 @@ Table of Contents
 ------------------------------
 - [Arduino](#Arduino)
 - [Udemy](#Udemy)
-- [YouTube Channels](#YouTube)
-- [Misc](#misc)
+- [YouTube Channels](#Youtube Channels)
+- [Misc](#Misc)
 
 # Arduino
   ## Arduino boards
@@ -48,6 +48,8 @@ Table of Contents
 # Youtube Channels
 - [Arduino Course for Beginners - (4HRS)- FreecodeCamp channel ](https://youtu.be/zJ-LqeX_fLU)
 - [Arduino tutorial series - 68 videos- Paul McWhorter channel ](https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
+- [ Arduino Crash Course - 14 videos - Programming Electronics Academy ](https://youtube.com/playlist?list=PLYutciIGBqC0SWYHfQWxM-E6chIdc4zrJ)
+
 
 # Books(ebooks)
 
