@@ -14,7 +14,7 @@ Table of Contents
 ------------------------------
 - [Arduino](#Arduino)
 - [Udemy](#Udemy)
-- [YouTube Channels](#YoutubeChannels)
+- [YouTube Channels](#youtube-channels)
 - [Misc](#Misc)
 
 # Arduino
