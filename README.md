@@ -52,6 +52,8 @@ Table of Contents
 
 
 # Books(ebooks)
+- [Programming Arduino Getting Started with Sketches by Simon Monk](https://www.pdfdrive.com/programming-arduino-getting-started-with-sketches-e51878818.html)
+- [Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi by Simon Monk](https://www.pdfdrive.com/electronics-cookbook-practical-electronic-recipes-with-arduino-and-raspberry-pi-e158281740.html)
 
 # Misc
 
