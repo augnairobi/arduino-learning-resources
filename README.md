@@ -57,5 +57,7 @@ Table of Contents
 - [Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi by Simon Monk](https://www.pdfdrive.com/electronics-cookbook-practical-electronic-recipes-with-arduino-and-raspberry-pi-e158281740.html)
 
 # Misc
+ #Robotics
+ -[Foundations of Robotics A Multidisciplinary Approach with Python and ROS ](https://link.springer.com/content/pdf/10.1007/978-981-19-1983-1.pdf)
 
 
