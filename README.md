@@ -58,6 +58,6 @@ Table of Contents
 
 # Misc
  # Robotics
- -[Foundations of Robotics A Multidisciplinary Approach with Python and ROS ](https://link.springer.com/content/pdf/10.1007/978-981-19-1983-1.pdf)
+ - [Foundations of Robotics A Multidisciplinary Approach with Python and ROS ](https://link.springer.com/content/pdf/10.1007/978-981-19-1983-1.pdf)
 
 
