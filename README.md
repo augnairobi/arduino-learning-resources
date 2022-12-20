@@ -50,6 +50,8 @@ Table of Contents
 - [Arduino Course for Beginners - (4HRS)- FreecodeCamp channel ](https://youtu.be/zJ-LqeX_fLU)
 - [Arduino tutorial series - 68 videos- Paul McWhorter channel ](https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 - [ Arduino Crash Course - 14 videos - Programming Electronics Academy ](https://youtube.com/playlist?list=PLYutciIGBqC0SWYHfQWxM-E6chIdc4zrJ)
+- [ Arduino Basics - Electronics with Becky Stern | Digi-Key Electronics-(11 Mins)](https://youtu.be/zfp0IJoXcFg)
+- 
 
 
 # Books(ebooks)
