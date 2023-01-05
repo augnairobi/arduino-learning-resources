@@ -39,10 +39,12 @@ Table of Contents
  - [UNO WiFi Rev2](https://docs.arduino.cc/hardware/uno-wifi-rev2)
  - [Arduino Zero](https://docs.arduino.cc/hardware/zero)
  - [The Yún Rev2](https://docs.arduino.cc/hardware/yun-rev2)
+ - <kbd> More to be added </kbd>
 
 # Udemy
 - [Getting Started with Arduino Web Editor](https://www.udemy.com/course/arduino-web-editor-getting-started-with-arduino-web-editor/)
 - [Getting started with Arduino IoT cloud](https://www.udemy.com/course/getting-started-with-arduino-iot-cloud/)
+- <kbd> More to be added </kbd>
 
 
 
@@ -51,14 +53,17 @@ Table of Contents
 - [Arduino tutorial series - 68 videos- Paul McWhorter channel ](https://youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 - [ Arduino Crash Course - 14 videos - Programming Electronics Academy ](https://youtube.com/playlist?list=PLYutciIGBqC0SWYHfQWxM-E6chIdc4zrJ)
 - [ Arduino Basics - Electronics with Becky Stern | Digi-Key Electronics-(11 Mins)](https://youtu.be/zfp0IJoXcFg)
+- <kbd> More to be added </kbd>
 
 
 # Books(ebooks)
 - [Programming Arduino Getting Started with Sketches by Simon Monk](https://www.pdfdrive.com/programming-arduino-getting-started-with-sketches-e51878818.html)
 - [Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi by Simon Monk](https://www.pdfdrive.com/electronics-cookbook-practical-electronic-recipes-with-arduino-and-raspberry-pi-e158281740.html)
+- <kbd> More to be added </kbd>
 
 # Misc
 - ## Robotics
  - [Foundations of Robotics A Multidisciplinary Approach with Python and ROS ](https://link.springer.com/content/pdf/10.1007/978-981-19-1983-1.pdf)
+ - <kbd> More to be added </kbd>
 
 
