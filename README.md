@@ -60,7 +60,7 @@ Table of Contents
 - [Programming Arduino Getting Started with Sketches by Simon Monk](https://www.pdfdrive.com/programming-arduino-getting-started-with-sketches-e51878818.html)
 - [Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi by Simon Monk](https://www.pdfdrive.com/electronics-cookbook-practical-electronic-recipes-with-arduino-and-raspberry-pi-e158281740.html)
 - [FreeRTOS Documentation PDF files](https://www.freertos.org/Documentation/RTOS_book.html)
-- [Arduino in Action](https://www.manning.com/books/arduino-in-action)
+- [Arduino in Action manning book resources](https://www.manning.com/downloads/1023)
 - <kbd> More to be added </kbd>
 
 # Misc
