@@ -61,6 +61,7 @@ Table of Contents
 - [Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi by Simon Monk](https://www.pdfdrive.com/electronics-cookbook-practical-electronic-recipes-with-arduino-and-raspberry-pi-e158281740.html)
 - [FreeRTOS Documentation PDF files](https://www.freertos.org/Documentation/RTOS_book.html)
 - [Arduino in Action manning book resources](https://www.manning.com/downloads/1023)
+- [Arduino Tips, Tricks, and Techniques - lady ada (PDF)](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf)
 - <kbd> More to be added </kbd>
 
 # Misc
