@@ -4,7 +4,7 @@
 
 - Please check [NOTES](https://github.com/augnairobi/arduino-learning-resources/blob/1db1288ee8bf6fce267c6ad6130dcd5ac18df7e7/NOTES.md) for general information about this list.
 - Please refer [CONTRIBUTING.md](https://github.com/augnairobi/arduino-learning-resources/blob/17795e48dc1af1e2f34afd8d792c296fec5ce2af/CONTRIBUTING.md) for contribution guidelines.
-- Please feel free to raise any genuine issue you may have, however it has been noticed that few people open empty issues to raise their github contribution on their account. Such spammers will be blocked. 
+- Please feel free to raise any genuine issue you may have, however, it has been noticed that few people open empty issues to raise their GitHub contribution on their account. Such spammers will be blocked. 
 - You are welcome to contribute.
 
 ------------------------------
@@ -69,7 +69,7 @@ Table of Contents
  - [Foundations of Robotics A Multidisciplinary Approach with Python and ROS ](https://link.springer.com/content/pdf/10.1007/978-981-19-1983-1.pdf)
 - ## Cloud
    - ### Azure cloud
-   - [Azure sdk for c arduino ](https://github.com/Azure/azure-sdk-for-c-arduino) 
+   - [Azure SDK for C Arduino ](https://github.com/Azure/azure-sdk-for-c-arduino) 
  - <kbd> More to be added </kbd>
 
 
