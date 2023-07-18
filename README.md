@@ -39,6 +39,11 @@ Table of Contents
  - [UNO WiFi Rev2](https://docs.arduino.cc/hardware/uno-wifi-rev2)
  - [Arduino Zero](https://docs.arduino.cc/hardware/zero)
  - [The Yún Rev2](https://docs.arduino.cc/hardware/yun-rev2)
+   
+ ## New Arduino boards docs
+ - [Arduino UNO R4 WIFI](https://docs.arduino.cc/hardware/uno-r4-wifi)
+ - [Arduino UNO R4 minima](https://docs.arduino.cc/hardware/uno-r4-minima)
+ - [Arduino Nano ESP32](https://docs.arduino.cc/hardware/nano-esp32)
  - <kbd> More to be added </kbd>
 
 # Udemy
