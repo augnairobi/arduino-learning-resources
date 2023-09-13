@@ -74,7 +74,10 @@ Table of Contents
  - [Foundations of Robotics A Multidisciplinary Approach with Python and ROS ](https://link.springer.com/content/pdf/10.1007/978-981-19-1983-1.pdf)
 - ## Cloud
    - ### Azure cloud
-   - [Azure SDK for C Arduino ](https://github.com/Azure/azure-sdk-for-c-arduino) 
- - <kbd> More to be added </kbd>
+   - [Azure SDK for C Arduino ](https://github.com/Azure/azure-sdk-for-c-arduino)
+ 
+- ## Arduino animators
+   - [Arduino animator)](https://animator.wokwi.com/)
+   - <kbd> More to be added </kbd>
 
 
