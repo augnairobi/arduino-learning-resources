@@ -67,6 +67,7 @@ Table of Contents
 - [FreeRTOS Documentation PDF files](https://www.freertos.org/Documentation/RTOS_book.html)
 - [Arduino in Action manning book resources](https://www.manning.com/downloads/1023)
 - [Arduino Tips, Tricks, and Techniques - lady ada (PDF)](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf)
+- [The Arduino Handbook – Learn Microcontrollers for Embedded Systems](https://www.freecodecamp.org/news/the-arduino-handbook/)
 - <kbd> More to be added </kbd>
 
 # Misc
